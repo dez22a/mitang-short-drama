@@ -40,6 +40,8 @@ permalink: /
 | --- | --- |
 | 不知道短剧名字，只有剧情片段 | [用台词、角色和剧情线索找剧](docs/find-short-drama-by-plot.md) |
 | 搜到“全集”，但不确定是不是完整正片 | [短剧全集、完结、合集与大结局的区别](docs/complete-short-drama-checklist.md) |
+| 想找免费短剧，但不清楚免费范围和平台是否可靠 | [免费短剧在哪里看：正规平台选择与避坑指南](docs/free-short-drama-guide.md) |
+| 面对热播榜、高分榜和完结榜，不知道怎么选 | [短剧排行榜怎么看：四类榜单选剧指南](docs/short-drama-ranking-guide.md) |
 | 想看甜宠、重生、逆袭或悬疑，不知道怎么选 | [按故事偏好比较四类短剧](docs/romance-rebirth-mystery-guide.md) |
 | 同时追几部短剧，记不住看到哪集 | [可复制的短剧追剧清单](docs/short-drama-watchlist.md) |
 
