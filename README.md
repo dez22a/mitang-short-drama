@@ -11,6 +11,10 @@ permalink: /
 
 **想看什么故事，从这里开始。**
 
+## 立即观看
+
+[🎬 进入蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama)
+
 ## 按兴趣找短剧题材
 
 | 你想看的故事 | 可以关注的题材 | 选剧时留意 |
