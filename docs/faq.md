@@ -44,4 +44,17 @@
 
 可以，欢迎通过 [Issues](https://github.com/dez22a/mitang-short-drama/issues) 留言。留言时注意保护个人信息。
 
+
+## 不知道短剧名字，只有剧情片段怎么办？
+
+先记录角色名、独特事件和清楚的台词，每次组合两三条线索搜索；找到候选后核对简介和场景。详见[用剧情线索找短剧](find-short-drama-by-plot.md)。
+
+## 合集与全集是一回事吗？
+
+不一定。合集可能汇集片段、预告或多部作品，应核对正片与选集列表。详见[全集与完结辨别指南](complete-short-drama-checklist.md)。
+
+## 同时追几部短剧，怎么记进度？
+
+记录剧名、版本与已看完的集数即可。[追剧清单](short-drama-watchlist.md)提供可复制的表格。
+
 [返回蜜糖短剧首页](../README.md)
