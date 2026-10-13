@@ -1,3 +1,9 @@
+---
+title: "蜜糖短剧｜短剧怎么选？微短剧题材与追剧指南"
+description: "蜜糖短剧文字指南：了解微短剧题材，按剧情和台词找剧，辨别全集与完结状态，并用清单记录追剧进度。"
+lang: zh-CN
+---
+
 # 蜜糖短剧｜短剧怎么选？微短剧题材与追剧指南
 
 蜜糖短剧整理中文短剧、微短剧和竖屏短剧的选剧方法：从都市情感、甜宠、穿越重生、逆袭到悬疑古装，帮你看懂题材、辨别完结状态，找到适合自己的故事。
@@ -59,6 +65,10 @@
 ## Chinese Short Drama Guide
 
 A Chinese-language guide to short dramas, micro dramas and vertical dramas. Explore romance, time travel, character growth, mystery and costume stories, with practical tips for choosing a series and tracking episodes.
+
+## 在线阅读
+
+[打开蜜糖短剧文字指南](https://dez22a.github.io/mitang-short-drama/)，按主题浏览找剧方法、题材比较与追剧问答。
 
 ## 收藏与交流
 
