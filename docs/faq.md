@@ -28,7 +28,7 @@ lang: zh-CN
 
 ## 哪里可以看短剧？
 
-可以通过正规视频平台或作品出品方公布的渠道，搜索完整剧名，核对片名与集数后观看。
+[进入蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama)，可以按题材浏览和搜索短剧。进入作品页面后，请核对剧名、集数和更新状态。
 
 ## 没有剧名，只有剧情片段，怎么找？
 
