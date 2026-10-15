@@ -44,6 +44,8 @@ permalink: /
 | 面对热播榜、高分榜和完结榜，不知道怎么选 | [短剧排行榜怎么看：四类榜单选剧指南](docs/short-drama-ranking-guide.md) |
 | 想看甜宠、重生、逆袭或悬疑，不知道怎么选 | [按故事偏好比较四类短剧](docs/romance-rebirth-mystery-guide.md) |
 | 同时追几部短剧，记不住看到哪集 | [可复制的短剧追剧清单](docs/short-drama-watchlist.md) |
+| 想知道一集多久、整部需要看多长时间 | [短剧单集时长、总集数与追完时间](docs/short-drama-episode-length-guide.md) |
+| 不知道试看、单集、金币和会员哪种合适 | [短剧观看方式与费用比较](docs/short-drama-watching-cost-guide.md) |
 
 ## 大家常问的短剧问题
 
