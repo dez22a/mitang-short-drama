@@ -10,4 +10,6 @@ https://dez22a.github.io/mitang-short-drama/docs/short-drama-watchlist.html
 https://dez22a.github.io/mitang-short-drama/docs/short-drama-ranking-guide.html
 https://dez22a.github.io/mitang-short-drama/docs/short-drama-episode-length-guide.html
 https://dez22a.github.io/mitang-short-drama/docs/short-drama-watching-cost-guide.html
+https://dez22a.github.io/mitang-short-drama/docs/short-drama-cast-to-tv-guide.html
+https://dez22a.github.io/mitang-short-drama/docs/short-drama-playback-troubleshooting.html
 https://dez22a.github.io/mitang-short-drama/docs/viewing-guide.html

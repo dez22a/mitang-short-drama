@@ -46,6 +46,8 @@ permalink: /
 | 同时追几部短剧，记不住看到哪集 | [可复制的短剧追剧清单](docs/short-drama-watchlist.md) |
 | 想知道一集多久、整部需要看多长时间 | [短剧单集时长、总集数与追完时间](docs/short-drama-episode-length-guide.md) |
 | 不知道试看、单集、金币和会员哪种合适 | [短剧观看方式与费用比较](docs/short-drama-watching-cost-guide.md) |
+| 想把手机里的短剧投到电视上看 | [短剧投屏到电视的方法与排查](docs/short-drama-cast-to-tv-guide.md) |
+| 遇到播放失败、卡顿、黑屏或没声音 | [短剧播放问题排查指南](docs/short-drama-playback-troubleshooting.md) |
 
 ## 大家常问的短剧问题
 
