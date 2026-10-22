@@ -30,4 +30,10 @@ lang: zh-CN
 
 讨论结局或反转前标注“剧透”。推荐时说清题材和看点，让别人更容易判断是否感兴趣。
 
+## 开始追剧
+
+进入蜜糖短剧剧库，选好作品后按集观看，记录自己的进度。
+
+[浏览蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama&utm_content=viewing_guide)
+
 [查看题材指南](genres.md) · [常见问题](faq.md) · [返回首页](../README.md)

@@ -13,7 +13,7 @@ permalink: /
 
 ## 立即观看
 
-[🎬 进入蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama)
+[🎬 进入蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama&utm_content=guide_home)
 
 ## 按兴趣找短剧题材
 

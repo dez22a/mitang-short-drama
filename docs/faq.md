@@ -28,11 +28,11 @@ lang: zh-CN
 
 ## 哪里可以看短剧？
 
-[进入蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama)，可以按题材浏览和搜索短剧。进入作品页面后，请核对剧名、集数和更新状态。
+[进入蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama&utm_content=faq_guide)，可以按题材浏览和搜索短剧。进入作品页面后，请核对剧名、集数和更新状态。
 
 ## 没有剧名，只有剧情片段，怎么找？
 
-先记录片段中能辨认的演员、角色名和独特剧情线索，再到正规平台查找。找到后核对简介与角色信息，避免把相似剧情当作同一部作品。
+先记录片段中能辨认的演员、角色名和独特剧情线索，再到正规平台查找。找到后核对简介与角色信息，避免把相似剧情当作同一部作品。详见[用剧情线索找短剧](find-short-drama-by-plot.md)。
 
 ## 看短剧需要付费吗？
 
@@ -49,11 +49,6 @@ lang: zh-CN
 ## 可以提问或建议新题材吗？
 
 可以，欢迎通过 [Issues](https://github.com/dez22a/mitang-short-drama/issues) 留言。留言时注意保护个人信息。
-
-
-## 不知道短剧名字，只有剧情片段怎么办？
-
-先记录角色名、独特事件和清楚的台词，每次组合两三条线索搜索；找到候选后核对简介和场景。详见[用剧情线索找短剧](find-short-drama-by-plot.md)。
 
 ## 合集与全集是一回事吗？
 

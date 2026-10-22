@@ -40,4 +40,10 @@ lang: zh-CN
 
 **选题材 → 看简介 → 确认正片与集数 → 查看完结状态 → 试看 → 核对费用。**
 
+## 按选剧步骤挑一部
+
+进入蜜糖短剧剧库，先看简介，再核对集数、观看范围与费用，选择适合自己的作品。
+
+[浏览蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama&utm_content=choose_drama_guide)
+
 [题材介绍](genres.md) · [追剧指南](viewing-guide.md) · [常见问题](faq.md) · [返回首页](../README.md)

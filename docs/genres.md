@@ -25,4 +25,10 @@ lang: zh-CN
 
 同一部短剧可能融合多个题材。先读简介，再看开篇，比只看标签更容易判断是否合口味。
 
+## 选好题材，开始找剧
+
+进入蜜糖短剧剧库，结合自己喜欢的题材阅读简介，挑选想继续看的故事。
+
+[浏览蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama&utm_content=genres_guide)
+
 [继续阅读追剧指南](viewing-guide.md) · [返回首页](../README.md)

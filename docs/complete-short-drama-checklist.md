@@ -39,4 +39,10 @@ lang: zh-CN
 
 追连载可以记下“已看至第几集”和作品页面，续看时重新核对更新状态。
 
+## 核对剧集后开始观看
+
+进入蜜糖短剧剧库，找到感兴趣的作品后，按本文方法核对剧名、更新状态和选集列表。
+
+[浏览蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama&utm_content=complete_checklist)
+
 [记录追剧进度](short-drama-watchlist.md) · [选剧指南](how-to-choose-short-dramas.md) · [返回首页](../README.md)

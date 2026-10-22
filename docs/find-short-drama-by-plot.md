@@ -41,4 +41,10 @@ lang: zh-CN
 
 去掉最宽泛的词，检查角色名错字，再看看原视频简介或置顶评论。有演员姓名时，也可以用“演员名＋短剧＋剧情关键词”继续查找。不要把“短剧、全集、免费、热门”当成唯一搜索词。
 
+## 按线索继续找剧
+
+进入蜜糖短剧剧库，用记下的剧名或关键词继续查找，再核对作品简介与剧情。
+
+[浏览蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama&utm_content=plot_search_guide)
+
 [短剧题材指南](genres.md) · [如何判断全集与完结](complete-short-drama-checklist.md) · [返回首页](../README.md)

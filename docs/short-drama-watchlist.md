@@ -37,4 +37,10 @@ lang: zh-CN
 
 写清剧名、题材和一句不剧透的看点，再说明自己看到了哪里。对还没看完的作品，用“目前看至第几集”表达，比直接下结论更有参考价值。
 
+## 给追剧清单添一部
+
+进入蜜糖短剧剧库，找到想看的作品，把剧名、作品页面和已看集数记进清单。
+
+[浏览蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama&utm_content=watchlist_guide)
+
 [核对全集与完结](complete-short-drama-checklist.md) · [追剧指南](viewing-guide.md) · [返回首页](../README.md)

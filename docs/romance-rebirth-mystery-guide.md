@@ -39,4 +39,10 @@ lang: zh-CN
 
 答案比热度数字更能帮助你判断是否继续追剧。想尝试新题材，可以先选一部简介清楚、更新状态明确的作品。
 
+## 找到适合自己的故事
+
+进入蜜糖短剧剧库，按你喜欢的故事方向挑选作品，观看前先阅读简介。
+
+[浏览蜜糖短剧剧库](https://mitanghoney.com/dramas?utm_source=github&utm_medium=referral&utm_campaign=mitang_short_drama&utm_content=genre_comparison)
+
 [完整题材介绍](genres.md) · [选剧步骤](how-to-choose-short-dramas.md) · [返回首页](../README.md)
